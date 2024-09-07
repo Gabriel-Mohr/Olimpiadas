@@ -1,4 +1,4 @@
-##O que essa aplicação faz?##
+## O que essa aplicação faz?
 
 Imagine que você é um super fã de esportes e quer saber tudo sobre seu atleta favorito ou sobre uma modalidade específica. Essa aplicação é a sua nova melhor amiga! Ela te ajuda a encontrar todas as informações que você precisa de forma rápida e fácil.
 
